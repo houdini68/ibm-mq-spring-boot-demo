@@ -1,6 +1,8 @@
 ibm-mq-spring-boot-demo
 ----
 
+Did a refactoring to convert the Gradle project into a working Maven project.
+
 Refer to [ibm-messaging/mq-jms-spring](https://github.com/ibm-messaging/mq-jms-spring)
 
 # How to run
